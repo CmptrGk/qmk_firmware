@@ -49,3 +49,8 @@ util/Win_Check_Output.txt
 # things travis sees
 secrets.tar
 id_rsa_*
+
+#visual studio 
+.vs/*
+.vscode/*
+CoreCompileInputs.cache
